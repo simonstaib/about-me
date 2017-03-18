@@ -11,12 +11,12 @@
 
 ### Identity 
 
+#### Bio
+
+Co-Founder of @blogfoster, CPO, Interface Designer @FH-Potsdam, Climber, Skier
+
 #### Profile Image
 
 ![Simon Staib](201703_simon_staib.jpg)
 
 Taken by [Linda Hanses Photography](https://www.facebook.com/pg/lindahansesphotography/)
-
-#### Bio
-
-Co-Founder of @blogfoster, CPO, Interface Designer @FH-Potsdam, Climber, Skier
