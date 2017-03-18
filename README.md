@@ -13,7 +13,7 @@
 
 #### Profile Image
 
-![Simon Staib](2107_03_simon_staib.jpg =250px)
+![Simon Staib](201703_simon_staib.jpg =250px)
 
 Taken by [Linda Hanses Photography](https://www.facebook.com/pg/lindahansesphotography/)
 
