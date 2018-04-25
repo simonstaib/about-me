@@ -10,9 +10,7 @@ Co-Founder of @blogfoster, CPO, Interface Designer @FH-Potsdam, Climber, Skier
 
 ## Images
 
-![Webversion](201703_simon_staib_web.jpg =250x)
-
-![Webversion](201703_simon_staib_web.jpg){:width="250px"}
+![Webversion](201703_simon_staib_thumb.png)
 
 * [Webversion](201703_simon_staib_web.jpg)
 * [Printversion](201703_simon_staib_print.jpg)
