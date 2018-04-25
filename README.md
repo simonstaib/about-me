@@ -10,9 +10,12 @@ Co-Founder of @blogfoster, CPO, Interface Designer @FH-Potsdam, Climber, Skier
 
 ## Images
 
-![Webversion](201703_simon_staib_web.jpg)
+![Webversion](201703_simon_staib_web.jpg =250x)
 
-![Printversion](201703_simon_staib_web.jpg)
+![Webversion](201703_simon_staib_web.jpg){:width="250px"}
+
+* [Webversion](201703_simon_staib_web.jpg)
+* [Printversion](201703_simon_staib_print.jpg)
 
 Taken by [Linda Hanses Photography](https://www.facebook.com/pg/lindahansesphotography/)
 
