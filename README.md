@@ -6,16 +6,15 @@
 
 Co-Founder of @blogfoster, CPO, Interface Designer @FH-Potsdam, Climber, Skier
 
-### Longer Bio
 
 ## Images
 
-![Webversion](201703_simon_staib_thumb.png)
+![](2020-simon-staib-web-square.jpgg)
 
-* [Webversion](201703_simon_staib_web.jpg)
-* [Printversion](201703_simon_staib_print.jpg)
+* [Webversion Square](2020-simon-staib-web-square.jpg)
+* [Webversion Portrait](2020-simon-staib-web-portrait.jpg)
+* [Printversion](2020-simon-staib-print.jpg)
 
-Taken by [Linda Hanses Photography](https://www.facebook.com/pg/lindahansesphotography/)
 
 ## Profiles
 
@@ -31,6 +30,11 @@ Taken by [Linda Hanses Photography](https://www.facebook.com/pg/lindahansesphoto
 * AngelList: [simonstaib](https://angel.co/simon-staib)
 
 
-## Expanded CV
+## CV
 
 
+### blogfoster GmbH - Co-Founder, CPO
+10/2013 - present
+
+### stilanzeigen UG - Co-Founder
+11/2012 - 12/2016
